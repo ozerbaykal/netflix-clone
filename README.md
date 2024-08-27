@@ -38,40 +38,40 @@ This project is a web application that mimics the core functionality of Netflix.
 
 ## Features
 
--Browse movies and series
--Detailed movie page with information about the cast, production companies, revenue, and more
+- Browse movies and series
+- Detailed movie page with information about the cast, production companies, revenue, and more
 
 ## Requirements
 
--Node.js (v14 or higher)
+- Node.js (v14 or higher)
 npm or yarn as a package manager
--Firebase or a similar backend service (optional)
+- Firebase or a similar backend service (optional)
 
 
  ##  Installation 
 
--Clone the project to your local machine:
+- Clone the project to your local machine:
 git clone https://github.com/username/netflix-clone.git
 
--Navigate to the project directory:
+- Navigate to the project directory:
 ```
 cd netflix-clone
 ```
--Install the necessary packages:
+- Install the necessary packages:
 ```
 npm install
 ```
-# or
+### or
  ```
  yarn install
 ```
 ## Usage
 
--Start the development server:
+- Start the development server:
 ```
 npm run dev
 ```
-# or
+### or
 ```
 yarn dev
 ```
@@ -80,25 +80,25 @@ Visit http://localhost:3000 in your browser.
 
 ## Commands
 
--npm run dev or yarn dev: Starts the development server.
--npm run build or yarn build: Builds the project for production.
--npm run preview or yarn preview: Previews the production build locally.
--npm run lint or yarn lint: Lints the code and highlights potential errors.
+- npm run dev or yarn dev: Starts the development server.
+- npm run build or yarn build: Builds the project for production.
+- npm run preview or yarn preview: Previews the production build locally.
+- npm run lint or yarn lint: Lints the code and highlights potential errors.
 
  
 ## Technologies 
 The main technologies and libraries used in this project are:
 
 
--React
--Vite
--Redux and Redux-Thunk
--React Redux
--React Router DOM
--Axios
--Tailwind CSS
--@splidejs/react-splide
--Millify
+- React
+- Vite
+- Redux and Redux-Thunk
+- React Redux
+- React Router DOM
+- Axios
+- Tailwind CSS
+- @splidejs/react-splide
+- Millify
 
 
 
@@ -109,11 +109,11 @@ This project uses The Movie Database (TMDb) API to fetch movie and series data. 
 
 Contributions are welcome! Please open an issue first to discuss what you would like to change.
 
-1.Fork the project
-2.Create your feature branch (git checkout -b feature/NewFeature)
-3.Commit your changes (git commit -m 'Add new feature')
-4.Push to the branch (git push origin feature/NewFeature)
-5.Open a Pull Request
+- 1.Fork the project 
+- 2.Create your feature branch (git checkout -b feature/NewFeature)
+- 3.Commit your changes (git commit -m 'Add new feature')
+- 4.Push to the branch (git push origin feature/NewFeature)
+- 5.Open a Pull Request
 
 
 <h2>Contact</h2>
